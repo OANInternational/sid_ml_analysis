@@ -6,5 +6,6 @@ Partimos de imágenes satelitales de la región obtenidas a través de la API de
 
 Estas imágenes se etiquetarán a través del software LabelIMG en formato YOLO, a partir del cual se generará un archivo .txt para cada imagen con la posición relativa de cada edificio marcado.
 
-Una vez etiquetadas nuestras imágenes de entrenamiento, podremos empezar a entrenar nuestro YOLO (You Only Look Once) de cara a poder realizar predicciones.
-
+Una vez etiquetadas nuestras imágenes de entrenamiento, podremos empezar a entrenar nuestro YOLO (You Only Look Once) de cara a poder realizar predicciones. A continuación se muestra un ejemplo del funcionamiento sobre el pueblo de Monnon.
+![Workflow](https://github.com/OANInternational/sid_ml_analysis/blob/master/Pictures/Monnon_19_1000.png)
+![Workflow](https://github.com/OANInternational/sid_ml_analysis/blob/master/Pictures/predicciones.JPG)
