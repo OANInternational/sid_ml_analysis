@@ -132,4 +132,4 @@ dmypy.json
 *.jpg
 *.png
 *.jpeg
-**/*.png
+retinanet/dataset/images/*.png
